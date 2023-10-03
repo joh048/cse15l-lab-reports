@@ -1,6 +1,6 @@
 ![Image](Capture1.JPG)
 * When trying the cd command with no argument, the working directory is the lecture1 directory. The output of the command basically puts you in your home directory since there is no argument indicating any directory that you want to change to. The output is not an error.
-* When trying the cd command with a path to a directory as an argument, the home directory is the working directory. The output of the command basically puts you in the directory path you had as an argument. In this case the output of the command, changed your directory to the messages directory since that was the argument. The output of the error.
+* When trying the cd command with a path to a directory as an argument, the home directory is the working directory. The output of the command basically puts you in the directory path you had as an argument. In this case the output of the command, changed your directory to the messages directory since that was the argument. The output is not an error.
 * When trying the cd command with a path to a file as an argument, the messages directory is the working directory. The output of the command is an error.The error was outputted because you were trying to change directory to a file. Essentially the cd command can only be used to change to a directory and not a file.
 ![Image](Capture2.JPG)
 * When trying the ls command with no arguments, the working directory is the lecture1 directory. The output of the command basically shows all files and folders in the current working directory. The output is not an error.
